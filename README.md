@@ -1,4 +1,4 @@
-# **AI Conversational Data Science Tutor** 🎓💬  
+# **AI  Data Science Tutor** 🎓💬  
 
 🚀 **An AI-powered chatbot designed to answer only data science-related questions!** Built using **Streamlit, LangChain, and Google's Gemini 1.5 Flash**, this interactive tool ensures that all responses stay relevant to data science topics like **Machine Learning, Deep Learning, and Statistics**.  
 
